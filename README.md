@@ -73,11 +73,6 @@ cd Occupancy_Detection_Classification
 pip install numpy pandas matplotlib seaborn scikit-learn keras tensorflow
 ```
 
-Alternatively, you can use the `requirements.txt` file (if provided):
-
-```bash
-pip install -r requirements.txt
-```
 
 #### Ensure the Dataset is in Place
 
